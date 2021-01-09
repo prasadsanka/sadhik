@@ -1,0 +1,5 @@
+a='prasad is topper'
+if 'prasad' in a:
+	print('he is legend')
+else:
+	print('he is leader')
